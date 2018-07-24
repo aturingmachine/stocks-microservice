@@ -1,0 +1,2 @@
+zuul.routes.symbols.serviceId: symbols
+security.basic.enabled: false
